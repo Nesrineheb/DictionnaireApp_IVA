@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DictionnaireApp_IVA</string>
+
+
+
+    <string name="cat">a small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.</string>
+
+    <string name="dog">a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice</string>
+
+    <string name="horse">a large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail, used for riding, racing, and to carry and pull loads</string>
+    <string name="raven">a large heavily built crow with mainly black plumage, feeding chiefly on carrion</string>
+
 </resources>
